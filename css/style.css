@@ -394,7 +394,8 @@ section {
     padding: 2rem 0;
 }
 
-.icons-container .icons i {
+.icons-container .icons i 
+{
     font-size: 3.5rem;
     color: var(--green);
 }
@@ -424,7 +425,7 @@ section {
 
 .featured .featured-slider .box .image {
     padding: 1rem;
-    background: linear-gradient(15deg, #eee 30%, #fff 30.1%);
+    background: linear-gradient(15deg, #eee 30%, #b83636 30.1%);
 }
 
 .featured .featured-slider .box:hover .image {
@@ -441,7 +442,7 @@ section {
     top: 0;
     left: 0;
     right: 0;
-    background: #fff;
+    background: #a13232;
     z-index: 1;
     transform: translateY(-105%);
 }
@@ -458,7 +459,7 @@ section {
 
 .featured .featured-slider .box .icons a:hover {
     background: var(--green);
-    color: #fff;
+    color: #090707;
 }
 
 .featured .featured-slider .box .content {
@@ -778,12 +779,6 @@ section {
 .loader-container img {
     height: 10rem;
 }
-
-
-
-
-
-
 
 
 
